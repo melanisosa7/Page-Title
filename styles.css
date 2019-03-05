@@ -1,0 +1,50 @@
+.tittle {
+ color:blue;
+ display:flex;
+ justify-content:space-around;
+ font-size: 60px;
+ border:solid 10px;
+ background-color:pink;
+}
+.box{
+ 
+ display:flex;
+    justify-content:space-around;
+
+    }
+.gallery{
+    width:650px;
+      height:500px;
+    justify-content:space-between;
+     color:blue;
+      background-color:pink;
+     border:solid black;} 
+      
+.menu{
+     width:550px;
+     height:500px;
+    color:blue;
+    justify-content:space-around;
+    border:solid black;
+     background-color:pink;}  
+    
+h1 {
+    padding:40px;}   
+
+button{
+    display:flex;
+    justify-content:space-around;
+  margin:20px;
+  padding:5px;
+    }    
+
+.galleryimage{
+    display:none;
+    width:200px;
+}
+
+
+
+
+
+
